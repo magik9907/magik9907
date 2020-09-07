@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<p align="center">
+<a href="https://linkedin.com/in/luki-m" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luki-m" height="30" width="30" /></a>
+<br /><a href="https://lukaszmilewski-portfolio.netlify.app" target="_blank"> Web Page</a>
+</p>
+<h3 align="center">"You can only become truly accomplished at something you love. Don't make money your goal. Instead pursue the things you love doing and then do them so well that people can't take their eyes off of you." - Maya Angelou</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magik9907" alt="magik9907" /> </p>
 
@@ -7,6 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magik9907&show_icons=true" alt="magik9907" /></p>
 
-<p align="center">
-<a href="https://linkedin.com/in/luki-m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luki-m" height="30" width="30" /></a>
-</p>
+
